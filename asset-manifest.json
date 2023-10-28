@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cream/static/css/main.e6c13ad2.css",
+    "main.js": "/cream/static/js/main.44ed4edf.js",
+    "index.html": "/cream/index.html",
+    "main.e6c13ad2.css.map": "/cream/static/css/main.e6c13ad2.css.map",
+    "main.44ed4edf.js.map": "/cream/static/js/main.44ed4edf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.44ed4edf.js"
+  ]
+}
